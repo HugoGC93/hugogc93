@@ -1,9 +1,9 @@
-<h1>Hi, I'm Hugo, an <a href="https://linkedin.com/in/hugo-coelho-9b7171256">IT Professional
+<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/hugo-coelho-9b7171256/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/hugogc93/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
